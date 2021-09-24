@@ -1,0 +1,38 @@
+/*
+Custom Css
+*/
+.footer-link-list li a{
+    color:#CFD6E1;
+}
+
+.footer-link-list li a:hover{
+    color: #59AB6E;
+}
+
+.input-group #subscribeEmail {
+    color: #CFD6E1 !important;
+}
+
+.copyright a{
+    color: #CFD6E1;
+}
+
+.copyright a:hover{
+    color: #59AB6E;
+}
+
+.fa-linkedin:hover{
+    color: #129CF7;
+}
+ 
+.fa-facebook-f:hover{
+    color: #0057FF;
+}
+
+.fa-gitlab:hover{
+    color: #FA7035;
+}
+
+.fa-github:hover{
+    color: #031432;
+}
